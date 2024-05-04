@@ -3,7 +3,7 @@ header {
   width: 100%;
   /*height: 100px;*/
   background-color: darkgrey;
-  /*align-items: center;*/
+  align-items: center;
   position: fixed;
 }
 
