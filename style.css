@@ -8,7 +8,9 @@ header {
   z-index: 1000;
 }
 
-
+head{
+  padding-top: 100px; /* ヘッダーの高さに応じて適切な値を設定 */
+}
 p {
   padding: 130px 0px;
   height: 500px;
