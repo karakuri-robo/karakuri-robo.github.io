@@ -13,13 +13,13 @@ main{
   padding-left: 10px;
 }
 h1{
-   padding: 130px 0px; /* ヘッダーの高さに応じて適切な値を設定 */
-   color: #ff0000;
+   /*padding: 130px 0px; /* ヘッダーの高さに応じて適切な値を設定 */
+   color: #008000;
 }
-p {
+/*p {
   padding: 130px 0px;
   height: 30px;
-}
+}*/
 
 .title {
   margin-right: auto;
