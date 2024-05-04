@@ -5,6 +5,7 @@ header {
   background-color: darkgrey;
   align-items: center;
   position: fixed;
+  z-index: 1000;
 }
 
 
