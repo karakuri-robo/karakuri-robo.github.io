@@ -8,6 +8,10 @@ header {
   z-index: 1000;
 }
 
+main{
+  margin-top: 80px; /* （※）の高さに合わせる */
+  padding-left: 10px;
+}
 h1{
    padding: 130px 0px; /* ヘッダーの高さに応じて適切な値を設定 */
 }
