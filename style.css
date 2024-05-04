@@ -5,10 +5,7 @@ header {
   background-color: darkgrey;
   align-items: center;
   position: fixed;
-}
-
-body {
-    padding-top: 1000px; /* ヘッダーの高さに応じて適切な値を設定 */
+  z-index: 1000;
 }
 
 
